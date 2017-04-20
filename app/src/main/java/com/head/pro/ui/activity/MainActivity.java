@@ -23,7 +23,7 @@ public class MainActivity extends BaseActivity<MainPresenter> implements IMainVi
     private MainPresenter mainPresenter;
     private FragmentManager fragmentManager;
 
-
+//首页
     @Override
     protected int getLayoutResId() {
         return R.layout.activity_main;
